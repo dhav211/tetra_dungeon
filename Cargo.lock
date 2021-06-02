@@ -882,6 +882,7 @@ name = "tetra_dungeon"
 version = "0.1.0"
 dependencies = [
  "ldtk",
+ "serde_json",
  "tetra",
 ]
 
